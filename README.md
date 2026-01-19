@@ -21,11 +21,13 @@ School Management System
   - Role-based access control (RBAC)
   - Real-time dashboards for administration  
   - Repo: https://github.com/licklebandit/Light-college-katikamu
+  - Live: https://light-college-katikamu.vercel.app
 
 E-Commerce Platform
   - JWT authentication & admin panel
   - Secure checkout & optimized APIs  
   - Repo: https://github.com/licklebandit/Don-do-low
+  - Live: https://don-do-low-uafz.vercel.app
 
 🛠 What I'm Working On
 - Improving backend architecture
