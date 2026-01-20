@@ -77,15 +77,19 @@ Hi, I'm **Nabuuma Sarah 👋**
 
 Final-year **Software Engineering student** with hands-on experience in **full-stack web development and IT support**.  
 Passionate about building **practical software solutions** and **AI-powered applications** that solve real-world problems.
-
 ---
 
 ## 💻 Tech Stack
-<div align="right" style="float:left; margin-right:20px; max-width:500px;">
-  <a href="https://github.com/licklebandit">
-    <img src="https://render.gitanimals.org/farms/licklebandit" width="480"/>
-  </a>
-</div>
+
+<img 
+  src="https://render.gitanimals.org/farms/licklebandit"
+  min-width="300px"
+  max-width="300px"
+  width="350px"
+  align="right"
+  style="margin-left:20px;"
+/>
+<br>
 
 - 🟨 **JavaScript (ES6+)**
 - 🌐 **HTML5, CSS3**
