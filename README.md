@@ -97,9 +97,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <img 
   src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
   alt="GitHub Stats"/>
-</div>
-
-<div align="center">
 
 <!-- GitHub Streak -->
 <img 
