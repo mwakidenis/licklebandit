@@ -84,18 +84,51 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ## 🖥️ GitHub Activity & Achievements
 
-![](https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=false" />
+<!-- GitHub Trophies -->
+<img 
+  src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=8" 
+  alt="GitHub Trophies"
+/>
+
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical)
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF1493&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" width="100%"/>
+<div align="center">
 
----
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
+  alt="GitHub Stats"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Profile Summary Card -->
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical" 
+  alt="GitHub Profile Summary"
+/>
+
+</div>
 
 ## 💻 Tech Stack
 
