@@ -94,8 +94,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <!-- GitHub Stats -->
@@ -106,8 +104,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <!-- GitHub Streak -->
@@ -117,8 +113,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 />
 
 </div>
-
-<br/>
 
 <div align="center">
 
