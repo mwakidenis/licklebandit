@@ -77,6 +77,7 @@ Hi, I'm **Nabuuma Sarah 👋**
 
 Final-year **Software Engineering student** with hands-on experience in **full-stack web development and IT support**.  
 Passionate about building **practical software solutions** and **AI-powered applications** that solve real-world problems.
+
 ---
 
 ## 💻 Tech Stack
@@ -190,4 +191,3 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 ###### © 2026 Nabuuma Sarah — Crafted with ❤️
-
