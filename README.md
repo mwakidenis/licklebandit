@@ -31,7 +31,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
-
 <div align=center>
   <h2 align="center">📊 Profile Stats <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
   <table align="center">
