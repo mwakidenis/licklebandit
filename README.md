@@ -1,13 +1,26 @@
 <p align="center">
 <a name="readme-top"></a>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,100:008B8B&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=FFFFFF"
     width="100%"
   />
 </p>
 
+<!-- LEFT SIDE GITHUB ANIMALS -->
+<p align="left">
+  <a href="https://github.com/licklebandit">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60"/>
+  </a>
+  <a href="https://github.com/licklebandit">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/cat.gif" height="60"/>
+  </a>
+  <a href="https://github.com/licklebandit">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/octocat.gif" height="60"/>
+  </a>
+</p>
+
 <div align=center>
-  <h2 align="center">📊 Profile Stats <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
+  <h2 align="center">📊 Profile Stats</h2> 
   <table align="center">
   <thead align="center">
     <tr>
@@ -20,7 +33,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=licklebandit&color=0A0209&style=flat-square"/>
+        <img src="https://komarev.com/ghpvc/?username=licklebandit&color=FF1493&style=flat-square"/>
       </td>
       <td>
         <a href="https://github.com/licklebandit">
@@ -40,19 +53,6 @@
     </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/kenya_public/licklebandit">
-    <img src="https://user-badge.committers.top/kenya_public/licklebandit.svg" />
-  </a>
-  <a href="https://user-badge.committers.top/kenya/licklebandit">
-    <img src="https://user-badge.committers.top/kenya/licklebandit.svg" />
-  </a>
-</p>
-
-<img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-6a5acd?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Web-00ccff?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -63,9 +63,16 @@
 
 </div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200"/></p>
+<!-- RIGHT SIDE ILLUSTRATION -->
+<img 
+  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
+  min-width="300px" 
+  max-width="300px" 
+  width="350px" 
+  align="right"> 
+<br>
 
-> **👩‍💻 About Me** <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+> **👩‍💻 About Me**
 
 Hi, I'm **Nabuuma Sarah 👋**
 
@@ -74,20 +81,20 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  (with emojis)
 
 - 🟨 **JavaScript (ES6+)**
-- 🌐 **HTML5, CSS3**
-- ⚛️ **React.js, Next.js**
-- 🟢 **Node.js, Express.js**
-- 🍃 **MongoDB, SQL**
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚛️ **React.js**
+- ▲ **Next.js**
+- 🟢 **Node.js**
+- 🚂 **Express.js**
+- 🍃 **MongoDB**
+- 🗄 **SQL**
 - 🐙 **Git & GitHub**
 - 🐘 **Basic PHP**
 - 📱 **Learning Flutter (Dart)**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
-</p>
 
 ---
 
@@ -132,24 +139,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 </table>
 </div>
 
-### Project Highlights
-
-**🤖 AI-Powered University Chatbot**
-- Full-stack chatbot built with **React, Node.js & MongoDB**
-- Integrated **Google Gemini AI** for accurate institutional responses
-
-**🎓 School Management System**
-- Role-Based Access Control (**RBAC**)
-- Real-time dashboards for administration
-
-**🛒 E-Commerce Platform**
-- **JWT authentication & admin panel**
-- Secure checkout & optimized APIs
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
-</p>
-
 ---
 
 ## 🛠 What I'm Working On
@@ -168,20 +157,10 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
-## 🐍 Slither Into My Code Kingdom
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake.svg" />
-</picture>
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Nabuuma+Sarah+💻;Fullstack+Developer+🚀;Building+AI-Powered+Apps+🤖;Future+Tech+Leader+✨;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF1493&width=435&lines=Nabuuma+Sarah+💻;Fullstack+Developer+🚀;Building+AI-Powered+Apps+🤖;Future+Tech+Leader+✨;" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 ###### © 2026 Nabuuma Sarah — Crafted with ❤️
