@@ -81,7 +81,7 @@ Passionate about building **practical software solutions** and **AI-powered appl
 ---
 
 ## 💻 Tech Stack
-<div align="left" style="float:left; margin-right:20px; max-width:500px;">
+<div align="right" style="float:left; margin-right:20px; max-width:500px;">
   <a href="https://github.com/licklebandit">
     <img src="https://render.gitanimals.org/farms/licklebandit" width="480"/>
   </a>
