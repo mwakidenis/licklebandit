@@ -6,12 +6,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/licklebandit">
-    <img src="https://render.gitanimals.org/farms/licklebandit" width="500"/>
-  </a>
-</p>
-
 <div align=center>
   <h2 align="center">📊 Profile Stats <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
   <table align="center">
@@ -87,6 +81,11 @@ Passionate about building **practical software solutions** and **AI-powered appl
 ---
 
 ## 💻 Tech Stack
+<div align="left" style="float:left; margin-right:20px; max-width:500px;">
+  <a href="https://github.com/licklebandit">
+    <img src="https://render.gitanimals.org/farms/licklebandit" width="480"/>
+  </a>
+</div>
 
 - 🟨 **JavaScript (ES6+)**
 - 🌐 **HTML5, CSS3**
