@@ -81,37 +81,40 @@ Passionate about building **practical software solutions** and **AI-powered appl
 </div>
 
 ---
-
 ## 🖥️ GitHub Activity & Achievements
 
-<div align="center">
-
 <!-- GitHub Trophies -->
-<img 
-  src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=8" 
-  alt="GitHub Trophies"/>
-</div>
 <div align="center">
-
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-  alt="GitHub Stats"/>
-
-<!-- GitHub Streak -->
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
-  alt="GitHub Streak"/>
+  <img 
+    src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=8" 
+    alt="GitHub Trophies"
+  />
 </div>
 
+<br/>
+
+<!-- GitHub Stats + Streak (same line) -->
 <div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+    height="180"
+  />
+</div>
+
+<br/>
 
 <!-- Profile Summary Card -->
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical" 
-  alt="GitHub Profile Summary"
-/>
-
+<div align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical" 
+    alt="GitHub Profile Summary"
+  />
 </div>
 
 ## 💻 Tech Stack
