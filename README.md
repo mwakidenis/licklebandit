@@ -1,7 +1,7 @@
 <p align="center">
 <a name="readme-top"></a>
-  <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&text=Hello+GitHub+Community&height=90&fontSize=28&section=header&fontColor=FF1493"
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&text=Hello+GitHub+Community&height=95&fontSize=32&section=header&fontColor=FF1493"
   width="100%"
 />
 </p>
