@@ -89,19 +89,14 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <!-- GitHub Trophies -->
 <img 
   src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=8" 
-  alt="GitHub Trophies"
-/>
-
+  alt="GitHub Trophies"/>
 </div>
-
 <div align="center">
 
 <!-- GitHub Stats -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-  alt="GitHub Stats"
-/>
-
+  alt="GitHub Stats"/>
 </div>
 
 <div align="center">
@@ -109,9 +104,7 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <!-- GitHub Streak -->
 <img 
   src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
-  alt="GitHub Streak"
-/>
-
+  alt="GitHub Streak"/>
 </div>
 
 <div align="center">
