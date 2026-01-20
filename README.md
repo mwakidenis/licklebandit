@@ -93,23 +93,26 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 <br/>
 
-<!-- GitHub Stats + Streak (same line) -->
+<!-- GitHub Stats + Streak (SAME LINE) -->
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats"
     height="180"
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
     height="180"
   />
+</div>
+
+<br/>
+
+<!-- Contribution Graph (FULL WIDTH, BELOW) -->
+<div align="center">
   <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" 
-  width="100%"
-/>
-  
+    src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" 
+    width="100%"
+  />
 </div>
 
 <br/>
@@ -118,9 +121,9 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <div align="center">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical" 
-    alt="GitHub Profile Summary"
   />
 </div>
+
 
 ## 💻 Tech Stack
 
