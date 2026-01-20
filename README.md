@@ -83,47 +83,22 @@ Passionate about building **practical software solutions** and **AI-powered appl
 ---
 ## 🖥️ GitHub Activity & Achievements
 
-<!-- GitHub Trophies -->
 <div align="center">
-  <img 
-    src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=8" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=6"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" height="170"/>
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" width="100%"/>
+
+  <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical"/>
 </div>
-
-<br/>
-
-<!-- GitHub Stats + Streak (SAME LINE) -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=true" 
-    height="180"
-  />
-</div>
-
-<br/>
-
-<!-- Contribution Graph (FULL WIDTH, BELOW) -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" 
-    width="100%"
-  />
-</div>
-
-<br/>
-
-<!-- Profile Summary Card -->
-<div align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical" 
-  />
-</div>
-
 
 ## 💻 Tech Stack
 
