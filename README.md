@@ -80,6 +80,21 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
+## 🖥️ GitHub Activity & Achievements
+
+![](https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=false" />
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF1493&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" width="100%"/>
+
+---
+
 ## 💻 Tech Stack
 
 <img 
@@ -148,23 +163,15 @@ Passionate about building **practical software solutions** and **AI-powered appl
 </table>
 </div>
 
-### Project Highlights
+---
 
-**🤖 AI-Powered University Chatbot**
-- Full-stack chatbot built with **React, Node.js & MongoDB**
-- Integrated **Google Gemini AI** for accurate institutional responses
+## 🐍 GitHub Snake (Contribution Animation)
 
-**🎓 School Management System**
-- Role-Based Access Control (**RBAC**)
-- Real-time dashboards for administration
-
-**🛒 E-Commerce Platform**
-- **JWT authentication & admin panel**
-- Secure checkout & optimized APIs
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/licklebandit/licklebandit/output/github-snake.svg" />
+</picture>
 
 ---
 
