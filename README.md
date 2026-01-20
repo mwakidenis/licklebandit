@@ -6,21 +6,14 @@
   />
 </p>
 
-<!-- LEFT SIDE GITHUB ANIMALS -->
 <p align="left">
   <a href="https://github.com/licklebandit">
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60"/>
-  </a>
-  <a href="https://github.com/licklebandit">
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/cat.gif" height="60"/>
-  </a>
-  <a href="https://github.com/licklebandit">
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/octocat.gif" height="60"/>
+    <img src="https://render.gitanimals.org/farms/licklebandit" width="500"/>
   </a>
 </p>
 
 <div align=center>
-  <h2 align="center">📊 Profile Stats</h2> 
+  <h2 align="center">📊 Profile Stats <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
   <table align="center">
   <thead align="center">
     <tr>
@@ -53,6 +46,19 @@
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/kenya_public/licklebandit">
+    <img src="https://user-badge.committers.top/kenya_public/licklebandit.svg" />
+  </a>
+  <a href="https://user-badge.committers.top/kenya/licklebandit">
+    <img src="https://user-badge.committers.top/kenya/licklebandit.svg" />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Web-FF1493?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -63,7 +69,6 @@
 
 </div>
 
-<!-- RIGHT SIDE ILLUSTRATION -->
 <img 
   src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
   min-width="300px" 
@@ -72,7 +77,7 @@
   align="right"> 
 <br>
 
-> **👩‍💻 About Me**
+> **👩‍💻 About Me** <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 Hi, I'm **Nabuuma Sarah 👋**
 
@@ -81,20 +86,20 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
-## 💻 Tech Stack  (with emojis)
+## 💻 Tech Stack
 
 - 🟨 **JavaScript (ES6+)**
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- ⚛️ **React.js**
-- ▲ **Next.js**
-- 🟢 **Node.js**
-- 🚂 **Express.js**
-- 🍃 **MongoDB**
-- 🗄 **SQL**
+- 🌐 **HTML5, CSS3**
+- ⚛️ **React.js, Next.js**
+- 🟢 **Node.js, Express.js**
+- 🍃 **MongoDB, SQL**
 - 🐙 **Git & GitHub**
 - 🐘 **Basic PHP**
 - 📱 **Learning Flutter (Dart)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
+</p>
 
 ---
 
@@ -139,6 +144,24 @@ Passionate about building **practical software solutions** and **AI-powered appl
 </table>
 </div>
 
+### Project Highlights
+
+**🤖 AI-Powered University Chatbot**
+- Full-stack chatbot built with **React, Node.js & MongoDB**
+- Integrated **Google Gemini AI** for accurate institutional responses
+
+**🎓 School Management System**
+- Role-Based Access Control (**RBAC**)
+- Real-time dashboards for administration
+
+**🛒 E-Commerce Platform**
+- **JWT authentication & admin panel**
+- Secure checkout & optimized APIs
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
+</p>
+
 ---
 
 ## 🛠 What I'm Working On
@@ -164,3 +187,4 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF69B4,100:FF1493&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 ###### © 2026 Nabuuma Sarah — Crafted with ❤️
+
