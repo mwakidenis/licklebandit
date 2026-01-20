@@ -105,6 +105,11 @@ Passionate about building **practical software solutions** and **AI-powered appl
     alt="GitHub Streak"
     height="180"
   />
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" 
+  width="100%"
+/>
+  
 </div>
 
 <br/>
