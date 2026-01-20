@@ -31,21 +31,6 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
 ---
 
-## 🖥️ GitHub Activity & Achievements
-
-![](https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=false" />
-</div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF1493&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" width="100%"/>
-
----
-
 
 <div align=center>
   <h2 align="center">📊 Profile Stats <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
@@ -95,6 +80,21 @@ Passionate about building **practical software solutions** and **AI-powered appl
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Web-FF1493?style=for-the-badge"/>
 
 </div>
+
+---
+
+## 🖥️ GitHub Activity & Achievements
+
+![](https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=licklebandit&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=licklebandit&theme=radical&hide_border=false" />
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=licklebandit&bg_color=000000&color=ffffff&line=FF69B4&point=FF1493&area=true&hide_border=true&custom_title=Nabuuma%20Sarah's%20Contribution%20Graph" width="100%"/>
 
 ---
 
