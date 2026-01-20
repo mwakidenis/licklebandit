@@ -81,7 +81,8 @@ Passionate about building **practical software solutions** and **AI-powered appl
 </div>
 
 ---
-## 🖥️ GitHub Activity & Achievements
+
+<h2 align="center">🖥️ GitHub Activity & Achievements</h2>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=licklebandit&theme=discord&no-frame=true&no-bg=true&margin-w=6"/>
@@ -99,6 +100,7 @@ Passionate about building **practical software solutions** and **AI-powered appl
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=licklebandit&theme=radical"/>
 </div>
+
 
 ## 💻 Tech Stack
 
