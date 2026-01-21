@@ -22,7 +22,7 @@ jobs:
           git config user.email "nabuumasarah30@gmail.com"
           git add "$TIMESTAMP_FILE"
           if ! git diff --cached --quiet; then
-            git commit -m "Updates by mwakidenis: $(date -u)"
+            git commit -m "Updates by Sarah: $(date -u)"
           fi
 
       - name: Push changes
